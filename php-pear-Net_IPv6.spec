@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	1.0.5
-Release:	%mkrel 6
+Version:	1.1.0
+Release:	%mkrel 1
 Summary:	Check and validate IPv6 addresses
 License:	PHP License
 Group:		Development/PHP
