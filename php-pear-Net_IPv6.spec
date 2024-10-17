@@ -8,7 +8,7 @@ Release:	5
 Summary:	Check and validate IPv6 addresses
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Net_IPv6/
+URL:		https://pear.php.net/package/Net_IPv6/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
